@@ -6,5 +6,8 @@ this region)
 3. Request for a product
 4. Offer for products (Offer)
 5. And transactions (Transactions)
+
 The backend part of the system serves the following 2 web applications
 (via REST API endpoints)
+1. Tizimning admin paneli (control panel)
+2. Foydalanuvchilar foydalanadigan web dastur
