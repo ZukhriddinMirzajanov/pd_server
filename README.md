@@ -1,6 +1,5 @@
 # pd_server is a company web applications that focus on product delivery
-Create a REST API for
-The system consists of:
+REST APIs for The system consists of:
 1. Regions and places located in
 this region)
 2. Carrier
